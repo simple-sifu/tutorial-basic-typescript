@@ -7,3 +7,6 @@ let isSomething = true;
 // let foo: bigint = BigInt(100); // the BigInt function
 // symbol types
 let property;
+// null and undefined
+let nullValue = null;
+let undefinedValue = undefined;
