@@ -1,2 +1,4 @@
-# tutorial-javascript
-# tutorial-basic-typescript
+# tutorial for Typescript
+
+- npm install -g typescript
+- tsc --init
